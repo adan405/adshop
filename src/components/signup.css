@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.signup{
+    text-align: center;
+    padding: 2rem 0;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+.signup::after{
+    content: '';
+    display: block;
+    width: 70px;
+    height: 4px;
+    margin: 10px auto;
+    background-color: #FAE301;
+}
+form{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+form .Input{
+    outline: none;
+    border: 2px solid #444;
+    color: black;
+    font-size: 18px;
+    padding: 10px 20px;
+    width: 100%;
+    margin: 10px 0;
+}
+.submitBtn{
+    padding: 15px 30px;
+    font-size: 17px;
+    background-color: #FAE301;
+    margin-bottom: 2%;
+    cursor: pointer;
+    width: 100%;
+}
+.submitBtn:hover{
+    border: 2px solid #FAE301;
+    background-color: transparent;
+}
