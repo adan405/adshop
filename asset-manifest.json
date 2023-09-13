@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adshop/static/css/main.1970d3f3.css",
+    "main.js": "/adshop/static/js/main.e2f03669.js",
+    "static/media/bg.jpg": "/adshop/static/media/bg.b77d5287c63f3e6e669d.jpg",
+    "index.html": "/adshop/index.html",
+    "main.1970d3f3.css.map": "/adshop/static/css/main.1970d3f3.css.map",
+    "main.e2f03669.js.map": "/adshop/static/js/main.e2f03669.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1970d3f3.css",
+    "static/js/main.e2f03669.js"
+  ]
+}
